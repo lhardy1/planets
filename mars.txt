@@ -304,6 +304,313 @@ Date:   Wed Jun 5 10:41:11 2019 -0500
 
     Start notes on Mars as a base
 Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
+Last login: Wed Jun  5 10:18:28 on ttys000
+Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
+1200px-American_Idol_logo.svg.png
+14tmag-sunkim-slide-UY9L-superJumbo.jpg
+1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
+262776-1333033055.jpg
+729868-1514994593.jpg
+773217-1530528745.jpg
+77406-004-D385837A.jpg
+852036-1545304938.jpg
+A6 pap hellpppp.docx
+AI midterm.docx
+ARBC
+ARHS exam
+BankAccount.png
+BankAccount2.pdf
+C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
+CHAARG
+CustomGallery
+DXC1.pdf
+Gen Chem
+GoogleCLPConstitution-2019-2020.docx
+Hardy, Lindsay- Short CV-Mar 2019.docx
+ICMS request.docx
+ICMS_Request_Form.jpg
+IDCard.jar
+IDCard2.jar
+IDrive
+IMG_0722.jpeg
+IR final
+JavaDoc
+LH resume.docx
+Larkmead_School,_Abingdon,_Oxfordshire.png
+Lindsay Hardy research pres.pptx
+Lindsay Hardy resume.docx
+Lindsay Hardy resume1.docx
+Object Presentation LH.pptx
+Project0
+Project0 2.zip
+Project0.zip
+Screen Shot 2019-02-04 at 2.29.04 PM.png
+Screen Shot 2019-02-07 at 5.43.22 PM.png
+Screen Shot 2019-02-07 at 5.43.32 PM.png
+Screen Shot 2019-02-07 at 5.43.44 PM.png
+Screen Shot 2019-02-18 at 1.43.24 PM.png
+Screen Shot 2019-04-05 at 2.00.56 PM.png
+Screen Shot 2019-04-05 at 4.38.42 PM.png
+Screen Shot 2019-04-08 at 1.12.39 PM.png
+Screen Shot 2019-04-08 at 3.02.47 PM.png
+Screen Shot 2019-04-17 at 10.17.48 AM.png
+Screen Shot 2019-04-20 at 12.17.59 PM.png
+Screen Shot 2019-04-26 at 10.33.44 AM.png
+Screen Shot 2019-04-26 at 10.33.56 AM.png
+Screen Shot 2019-04-29 at 1.23.56 PM.png
+Screen Shot 2019-04-29 at 1.36.58 PM.png
+Screen Shot 2019-04-29 at 1.36.59 PM.png
+Screen Shot 2019-04-29 at 1.39.46 PM.png
+Screen_Shot_2018_10_23_at_12.28.34_PM.png.jpeg
+SettingsPush these settings .textClipping
+Shape.pdf
+Test Scenarios.docx
+Token.pdf
+art i like
+bib A6 rp.docx
+convnet.png
+cyberjaya-malaysia-20-nov-2017-260nw-762028600.jpg.jp2
+fresh vid 2
+gan_schema.png
+guessing basic lab 4.c
+ideas for A6 research.docx
+images.jpeg
+index.html
+linked.c
+little!!
+merlin_145496349_2ef618d1-e2db-41ac-bfc0-333987273896-articleLarge.jpg
+mortgage.jpg
+murcia-spain-nov-27-2018-260nw-1243987843.jpg.jp2
+murcia-spain-nov-27-2018-450w-1243987843.jpg
+nci app.docx
+object A6 paper.docx
+open.spotify.com:track:14jT08CWLpNI0g2mhu0xkd.webloc
+petunia pics
+phi dude
+phi pics
+pics for zine
+pics on screen
+planets
+project1 data.docx
+so many ideas.docx
+sophmore year
+sublime
+test.hs
+time is money bb.docx
+too much time A6.docx
+~$ pap hellpppp.docx
+~$ resume.docx
+~$ARHS quiz 1.pptx
+~$Ch8_Module1-1.ppt
+~$ab6pr3.docx
+~$b A6 rp.docx
+~$ci app.docx
+~$iz study guides CMPS.docx
+~$ndsay Hardy resume.docx
+~$nner Party research.docx
+~$obama .pptx
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ cd planets
+Lindsays-MacBook-Pro:planets lindsayhardy$ git init
+Initialized empty Git repository in /Users/lindsayhardy/Desktop/planets/.git/
+Lindsays-MacBook-Pro:planets lindsayhardy$ ls -a
+.	..	.git
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
+/Users/lindsayhardy/Desktop/planets
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ ls
+mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
+Last login: Wed Jun  5 10:18:28 on ttys000
+Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
+1200px-American_Idol_logo.svg.png
+14tmag-sunkim-slide-UY9L-superJumbo.jpg
+1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
+262776-1333033055.jpg
+729868-1514994593.jpg
+773217-1530528745.jpg
+77406-004-D385837A.jpg
+852036-1545304938.jpg
+A6 pap hellpppp.docx
+AI midterm.docx
+ARBC
+ARHS exam
+BankAccount.png
+BankAccount2.pdf
+C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
+CHAARG
+CustomGallery
+DXC1.pdf
+Gen Chem
+GoogleCLPConstitution-2019-2020.docx
+Hardy, Lindsay- Short CV-Mar 2019.docx
+ICMS request.docx
+ICMS_Request_Form.jpg
+IDCard.jar
+IDCard2.jar
+IDrive
+IMG_0722.jpeg
+IR final
+JavaDoc
+LH resume.docx
+Larkmead_School,_Abingdon,_Oxfordshire.png
+Lindsay Hardy research pres.pptx
+Lindsay Hardy resume.docx
+Lindsay Hardy resume1.docx
+Object Presentation LH.pptx
+Project0
+Project0 2.zip
+Project0.zip
+Screen Shot 2019-02-04 at 2.29.04 PM.png
+Screen Shot 2019-02-07 at 5.43.22 PM.png
+Screen Shot 2019-02-07 at 5.43.32 PM.png
+Screen Shot 2019-02-07 at 5.43.44 PM.png
+Screen Shot 2019-02-18 at 1.43.24 PM.png
+Screen Shot 2019-04-05 at 2.00.56 PM.png
+Screen Shot 2019-04-05 at 4.38.42 PM.png
+Screen Shot 2019-04-08 at 1.12.39 PM.png
+Screen Shot 2019-04-08 at 3.02.47 PM.png
+Screen Shot 2019-04-17 at 10.17.48 AM.png
+Screen Shot 2019-04-20 at 12.17.59 PM.png
+Screen Shot 2019-04-26 at 10.33.44 AM.png
+Screen Shot 2019-04-26 at 10.33.56 AM.png
+Screen Shot 2019-04-29 at 1.23.56 PM.png
+Screen Shot 2019-04-29 at 1.36.58 PM.png
+Screen Shot 2019-04-29 at 1.36.59 PM.png
+Screen Shot 2019-04-29 at 1.39.46 PM.png
+Screen_Shot_2018_10_23_at_12.28.34_PM.png.jpeg
+SettingsPush these settings .textClipping
+Shape.pdf
+Test Scenarios.docx
+Token.pdf
+art i like
+bib A6 rp.docx
+convnet.png
+cyberjaya-malaysia-20-nov-2017-260nw-762028600.jpg.jp2
+fresh vid 2
+gan_schema.png
+guessing basic lab 4.c
+ideas for A6 research.docx
+images.jpeg
+index.html
+linked.c
+little!!
+merlin_145496349_2ef618d1-e2db-41ac-bfc0-333987273896-articleLarge.jpg
+mortgage.jpg
+murcia-spain-nov-27-2018-260nw-1243987843.jpg.jp2
+murcia-spain-nov-27-2018-450w-1243987843.jpg
+nci app.docx
+object A6 paper.docx
+open.spotify.com:track:14jT08CWLpNI0g2mhu0xkd.webloc
+petunia pics
+phi dude
+phi pics
+pics for zine
+pics on screen
+planets
+project1 data.docx
+so many ideas.docx
+sophmore year
+sublime
+test.hs
+time is money bb.docx
+too much time A6.docx
+~$ pap hellpppp.docx
+~$ resume.docx
+~$ARHS quiz 1.pptx
+~$Ch8_Module1-1.ppt
+~$ab6pr3.docx
+~$b A6 rp.docx
+~$ci app.docx
+~$iz study guides CMPS.docx
+~$ndsay Hardy resume.docx
+~$nner Party research.docx
+~$obama .pptx
+Lindsays-MacBook-Pro:Desktop lindsayhardy$ cd planets
+Lindsays-MacBook-Pro:planets lindsayhardy$ git init
+Initialized empty Git repository in /Users/lindsayhardy/Desktop/planets/.git/
+Lindsays-MacBook-Pro:planets lindsayhardy$ ls -a
+.	..	.git
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
+/Users/lindsayhardy/Desktop/planets
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+
+  GNU nano 2.0.6              File: mars.txt                          Modified  
+
+i love planets and mars is the best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	mars.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Lindsays-MacBook-Pro:planets lindsayhardy$ git add mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   mars.txt
+
+Lindsays-MacBook-Pro:planets lindsayhardy$ git commit -m "Start notes on Mars as a base"
+[master (root-commit) 24d885d] Start notes on Mars as a base
+ 1 file changed, 146 insertions(+)
+ create mode 100644 mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+nothing to commit, working tree clean
+Lindsays-MacBook-Pro:planets lindsayhardy$ git log
+commit 24d885da28c8712361dd5bb991dd81185e095083 (HEAD -> master)
+Author: Lindsay Hardy <lhardy@tulane.edu>
+Date:   Wed Jun 5 10:41:11 2019 -0500
+
+    Start notes on Mars as a base
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
 
   GNU nano 2.0.6              File: mars.txt                          Modified  
 
@@ -319,6 +626,2905 @@ I think it would be cool to go to marz
 
 
 
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   mars.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Lindsays-MacBook-Pro:planets lindsayhardy$ git diff
+diff --git a/mars.txt b/mars.txt
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
++Project0 2.zip
++Project0.zip
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
++Project0 2.zip
++Project0.zip
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
++Project0 2.zip
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
++Project0 2.zip
+:
+index 99ac934..9bf234b 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -115,6 +115,130 @@ On branch master
+ 
+ No commits yet
+ 
++nothing to commit (create/copy files and use "git add" to track)
++Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
++/Users/lindsayhardy/Desktop/planets
++Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ ls
++mars.txt
++Lindsays-MacBook-Pro:planets lindsayhardy$ cat mars.txt
++Last login: Wed Jun  5 10:18:28 on ttys000
++Lindsays-MacBook-Pro:~ lindsayhardy$ cd ~/Desktop
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ mkdir planets
++Lindsays-MacBook-Pro:Desktop lindsayhardy$ ls
++1200px-American_Idol_logo.svg.png
++14tmag-sunkim-slide-UY9L-superJumbo.jpg
++1767546c-7bd0-4d96-86a9-6a6c425ae4a5.jpg
++262776-1333033055.jpg
++729868-1514994593.jpg
++773217-1530528745.jpg
++77406-004-D385837A.jpg
++852036-1545304938.jpg
++A6 pap hellpppp.docx
++AI midterm.docx
++ARBC
++ARHS exam
++BankAccount.png
++BankAccount2.pdf
++C3794B99-B5EB-421D-A557-5E1D61495D40_w650_r1_s.jpg
++CHAARG
++CustomGallery
++DXC1.pdf
++Gen Chem
++GoogleCLPConstitution-2019-2020.docx
++Hardy, Lindsay- Short CV-Mar 2019.docx
++ICMS request.docx
++ICMS_Request_Form.jpg
++IDCard.jar
++IDCard2.jar
++IDrive
++IMG_0722.jpeg
++IR final
++JavaDoc
++LH resume.docx
++Larkmead_School,_Abingdon,_Oxfordshire.png
++Lindsay Hardy research pres.pptx
++Lindsay Hardy resume.docx
++Lindsay Hardy resume1.docx
++Object Presentation LH.pptx
++Project0
++Project0 2.zip
++Project0.zip
+Lindsays-MacBook-Pro:planets lindsayhardy$ git add mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ git commit mars.txt
+Aborting commit due to empty commit message.
+Lindsays-MacBook-Pro:planets lindsayhardy$ git commit mars.txt "change"
+error: pathspec 'change' did not match any file(s) known to git
+Lindsays-MacBook-Pro:planets lindsayhardy$ git commit mars.txt -m "change"
+[master b1e6abf] change
+ 1 file changed, 185 insertions(+)
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+
+  GNU nano 2.0.6               File: mars.txt                          Modified  
+
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   mars.txt
+
+Lindsays-MacBook-Pro:planets lindsayhardy$ git commit -m "Start notes on Mars as$
+[master (root-commit) 24d885d] Start notes on Mars as a base
+ 1 file changed, 146 insertions(+)
+ create mode 100644 mars.txt
+Lindsays-MacBook-Pro:planets lindsayhardy$ git status
+On branch master
+nothing to commit, working tree clean
+Lindsays-MacBook-Pro:planets lindsayhardy$ git log
+commit 24d885da28c8712361dd5bb991dd81185e095083 (HEAD -> master)
+Author: Lindsay Hardy <lhardy@tulane.edu>
+Date:   Wed Jun 5 10:41:11 2019 -0500
+
+    Start notes on Mars as a base
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+
+  GNU nano 2.0.6              File: mars.txt                          Modified
+
+nothing to commit (create/copy files and use "git add" to track)
+Lindsays-MacBook-Pro:planets lindsayhardy$ pwd
+/Users/lindsayhardy/Desktop/planets
+Lindsays-MacBook-Pro:planets lindsayhardy$ nano mars.txt
+
+  GNU nano 2.0.6              File: mars.txt                          Modified
+
+i love planets and mars is the best
+I think it would be cool to go to marz
+woohoo planets are fun
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
 
 
 
